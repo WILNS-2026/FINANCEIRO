@@ -1,7 +1,7 @@
 // Meu Financeiro — Service Worker
 // BUILD: 202604091615
 // Incrementar este número a cada deploy para forçar atualização
-const CACHE_VERSION = '1.1.4';
+const CACHE_VERSION = '1.1.5';
 const CACHE_NAME = 'meu-financeiro-' + CACHE_VERSION;
 
 const SHELL = [
